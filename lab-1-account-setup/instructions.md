@@ -58,7 +58,7 @@ On your desktop (or anywhere on your computer’s file system including your thu
 
 	- Note: the "h1" is the letter "h" and the number "1", not a lowercase L
 
-```
+```html
 <!doctype html>
 
 <html>
