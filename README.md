@@ -1,4 +1,5 @@
-# Course Documentation
+# CSC 170 Course Documentation
+Web Design and Development
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
