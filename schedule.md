@@ -3,7 +3,7 @@ This schedule is subject to modification throughout the semester.  Always check 
 
 |Date                          |Lecture<br>Tuesdays, Thursdays                           |Lab<br>Tuesdays, Thursdays<br>(CRN: 50332)|Lab<br>Mondays, Wednesdays<br>(CRNs: 50097, 50328)|
 |---                           |---                                                      |---                                       |---                                       |
-|Wednesday, August 30, 2017    |                                                         |                                          |[Lab 1 Account Setup](lab01-account-setup)                       |
+|Wednesday, August 30, 2017    |                                                         |                                          |[Lab 1 Account Setup](lab01-account-setup/instructions.md)|
 |Thursday, August 31, 2017     |Lecture 1 Introduction to the Industry|Lab 1 Account Setup|                                         |                                          |
 |Monday, September 4, 2017     |                                                         |                                          |HOLIDAY - no lab                          |
 |Tuesday, September 5, 2017    |Lecture 2 The Internet and the Web                       |Lab 2 First HTML Web Page                 |                                          |
