@@ -38,6 +38,7 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
+something here might help?
 
 |Activity				| Weight of the final grade|
 |---				|---	|
