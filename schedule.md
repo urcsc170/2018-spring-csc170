@@ -2,7 +2,9 @@
 This schedule is subject to modification throughout the semester. Always check
 with your instructor if you have any questions.
 
-| Date                         | Lecture<br>Tuesdays, Thursdays                      | Lab Mondays, Wednesdays<br>(CRNs: 50097, 50328)         | Lab Tuesdays, Thursdays<br>(CRN: 50332)                                           |
+*Note: students are required to know in which lab they're registered, and when & where it meets.  (Refer to the CRN number and look it up!)*
+
+| Date                         | Lecture<br>Tuesdays, Thursdays                      | Lab (x1)<br>Mondays, Wednesdays<br>(CRN: 49041)         | Labs (x2)<br> Tuesdays, Thursdays<br>(CRNs: 49035, 49064)                                           |
 |------------------------------|--------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | Wednesday, January 17, 2018  |                                                  | [Lab 1 Account Setup](lab01-account-setup/instructions.md) |                                                                                   |
 | Thursday, January 18, 2018   | Lecture 1 Introduction to the Industry           |                                                            | [Lab 1 Account Setup](lab01-account-setup/instructions.md)  |
