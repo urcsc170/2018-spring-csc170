@@ -124,3 +124,10 @@ When you are done with your webpage, use an FTP tool (like WinSCP or Cyberduck) 
 
 ## Step 4:  Report your work
 1.	In our Blackboard section, in Lab 2, post a link to your webpage to receive credit for this Lab. 
+
+## Comp
+Below is your comp to guide the design of your webpage.
+
+Remember: it is *not* important to make your webpage look like this.  In fact, this is a good time to do some experimentation.  
+
+![figure2:comp of lab 2](documentation-images/figure2.png)
