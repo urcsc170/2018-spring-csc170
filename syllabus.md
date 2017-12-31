@@ -17,7 +17,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 
 ### Office Hours
 - **Private Office Hours:** By Appointment Only *(When students need to meet with the professor privately, send email to <robert.kostin@rochester.edu>)*
-- **Technical Help - Open Office Hours:** During Regularly Scheduled Labs - see the section: *<a href="#labs">Lab and Project Assignments</a>* below
+- **Technical Help - Open Office Hours:** During Regularly Scheduled Labs - see the section: *[Lab and Project Assignments](#lab-and-project-assignments)* below
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
@@ -44,7 +44,6 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 |**Projects**<br>There are three projects during the semester. Each project depends on the success of the previous.|**40%**<br>Project 1: 10% <br>Project 2: 15%<br>Project 3: 15% |
 |**Exams**<br>There will be two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).  See [the course schedule](schedule.md) for exact exam dates and locations.|**30%**<br>Midterm exam: 15%<br>Final exam: 15%|
 
-<span id="labs"></span>
 ## Lab and Project Assignments
 **Assignments** are made available via Blackboard after most lectures and can be completed in the lab room or independently on one's own Internet-connected computer (Mac or PC).  However...
 
