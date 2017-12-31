@@ -3,6 +3,8 @@
 
 Your assignment is to create an account on our production web server and practice the steps in creating and uploading files to the World Wide Web.
 
+**NOTE: This lab cannot be completed independently.  It must be completed by meeting with a TA in the student's assigned lab.**
+
 ## Step 1: Create an FTP account
 
 Your FTP (File Transfer Protocol) account is what you will use to copy your web files to the web server throughout the semester.  One of the Teaching Assistants will set it up for you based on information you provide.
