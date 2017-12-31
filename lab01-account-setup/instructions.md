@@ -119,7 +119,7 @@ If you were successful, your FTP client will connect you to the file space on th
 
 - Close the code editor and web browser and then drag the **start.html** file into the open FTP window to upload it to your account on the web server.
 
-- Open a web browser and go to this web address, below, where “*username*” is the username that you created in Step 1<br>(example: **rkostin** -- *not* your FTP login with the @...)
+- Open a web browser and go to this web address, below, where “*username*” is the username that you created in Step 1 (example: **rkostin** -- *not* your FTP login with the @...)
 
 		www.urcsc170.org/username/start.html
 
