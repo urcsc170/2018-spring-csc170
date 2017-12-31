@@ -1,5 +1,5 @@
 # Lab 1: Account Setup
-*Due: Tuesday, January 23, 2018 at 3:25 PM (before the next lecture starts)*
+*Due: Monday, January 22, 2018 at 9:00 AM (before the next lab comes out)*
 
 Your assignment is to create an account on our production web server and practice the steps in creating and uploading files to the World Wide Web.
 
