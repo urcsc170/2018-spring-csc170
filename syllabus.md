@@ -23,7 +23,6 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
 
 ### Grading Schema
-maybe something up here will help?
 
 | **Range**      | **Grade** |
 |----------------|-----------|
@@ -40,7 +39,6 @@ maybe something up here will help?
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-something here might help?
 
 |Activity				| Weight of the final grade|
 |---				|---	|
