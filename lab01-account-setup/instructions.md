@@ -50,13 +50,15 @@ On your desktop (or anywhere on your computer’s file system including your thu
 
 	- Save the current (empty) file to the desktop using the filename: start.html
 
-- [ ] In your code editor, enter the following text exactly as shown below
+- In your code editor, enter the following text exactly as shown below
 
 	- Mimic the indentations using tabs or spaces (it doesn’t matter which you use)
 
 	- Where it says “Enter Your Name” (in two places), enter your name
 
 	- Note: the "h1" is the letter "h" and the number "1", not a lowercase L
+	
+<hr>
 
 ```html
 <!doctype html>
@@ -76,6 +78,10 @@ On your desktop (or anywhere on your computer’s file system including your thu
 
 </html>
 ```
+
+<hr>
+
+
 - Save the file  
 - Open the start.html file in a web browser (double click it).  You should see something like this...<br>![screen capture of first webpage](documentation-images/figure1.png)
  
@@ -109,9 +115,9 @@ If you were successful, your FTP client will connect you to the file space on th
 
 ## Step 4: Upload and check your HTML document
 
-- [ ] Close the code editor and web browser and then drag the **start.html** file into the open FTP window to upload it to your account on the web server.
+- Close the code editor and web browser and then drag the **start.html** file into the open FTP window to upload it to your account on the web server.
 
-- [ ] Open a web browser and go to this web address, below, where “*username*” is the username that you created in Step 1<br>(example: **rkostin** -- *not* your FTP login with the @...)
+- Open a web browser and go to this web address, below, where “*username*” is the username that you created in Step 1<br>(example: **rkostin** -- *not* your FTP login with the @...)
 
 		www.urcsc170.org/username/start.html
 
