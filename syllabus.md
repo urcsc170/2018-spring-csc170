@@ -23,7 +23,7 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
 
 ### Grading Schema
-|Range|Grade	|
+|Range|Grade|
 |---|:---:|
 |93.00 to 100|A|
 |90.00 to 92.99|A-|
