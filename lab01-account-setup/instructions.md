@@ -60,8 +60,6 @@ On your desktop (or anywhere on your computer’s file system including your thu
 
 	- Note: the "h1" is the letter "h" and the number "1", not a lowercase L
 	
-<hr>
-
 ```html
 <!doctype html>
 
@@ -80,9 +78,6 @@ On your desktop (or anywhere on your computer’s file system including your thu
 
 </html>
 ```
-
-<hr>
-
 
 - Save the file  
 - Open the start.html file in a web browser (double click it).  You should see something like this...<br>![screen capture of first webpage](documentation-images/figure1.png)

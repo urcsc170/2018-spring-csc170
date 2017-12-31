@@ -14,7 +14,6 @@ You will have to look-up how to use certain HTML tags.  [www.w3schools.com](http
 - Inside the **lab02** folder (not the **images** folder) create a new HTML file named **start.html**
 - In your code editor, type the following exactly:
 
-<hr>
 ```html
 <!doctype html>
 
@@ -64,22 +63,16 @@ For this assignment, you will use the comp provided (see last page of this docum
 
 Using the *comp* on the back of this document as a guide, you will write and paste text into your open HTML file (in your code editor) inside the one `<body>` tag, like this: 
 
-<hr>
-	
 ```html
 <body>
 	(all your text content will go here)
 </body>
 ```
 	
-<hr>
-
 Your goal is to make it look like (but it doesn’t have to be exactly) like the *comp*.
 
 1. Write or copy & paste plain text into your HTML document between the `<body>` tags.  You can start by typing something like this between the `<body>` tags:
 
-	<hr>
-	
 	```html
 	<body>
 		<h1>Hello World!</h1>
@@ -87,8 +80,6 @@ Your goal is to make it look like (but it doesn’t have to be exactly) like the
 	</body>
 	```
 	
-	<hr>
-
 2. Save your HTML file, toggle back to your lab02 folder and double click your start.html file.  The file will open in a web browser – whatever is the default web browser for your computer.  There, you should see something like this:
 
 	![figure1:three windows open on your desktop](documentation-images/figure1.png)
@@ -124,6 +115,10 @@ When you are done with your webpage, use an FTP tool (like WinSCP or Cyberduck) 
 
 ## Step 4:  Report your work
 1.	In our Blackboard section, in Lab 2, post a link to your webpage to receive credit for this Lab. 
+
+[end of lab instructions]<br><br>
+
+<hr>
 
 ## Comp
 Below is your comp to guide the design of your webpage.
