@@ -23,20 +23,21 @@ An introduction to Internet and Web technologies. Topics include Internet transp
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
 
 ### Grading Schema
-|Range|Grade|
-|---|:---:|
-|93.00 to 100|A|
-|90.00 to 92.99|A-|
-|87.00 to 89.99|B+|
-|84.00 to 86.99|B|
-|80.00 to 83.99|B-|
-|77.00 to 79.99|C+|
-|74.00 to 76.99|C|
-|70.00 to 73.99|C-|
-|67.00 to 69.99|D+|
-|64.00 to 66.99|D|
-|60.00 to 63.99|D-|
-|00.00 to 59.99|E|
+| **Range**      | **Grade** |
+|----------------|-----------|
+| 93.00 to 100   | A         |
+| 90.00 to 92.99 | A-        |
+| 87.00 to 89.99 | B+        |
+| 84.00 to 86.99 | B         |
+| 80.00 to 83.99 | B-        |
+| 77.00 to 79.99 | C+        |
+| 74.00 to 76.99 | C         |
+| 70.00 to 73.99 | C-        |
+| 67.00 to 69.99 | D+        |
+| 64.00 to 66.99 | D         |
+| 60.00 to 63.99 | D-        |
+| 00.00 to 59.99 | E         |
+
 
 |Activity				| Weight of the final grade|
 |---				|---	|
