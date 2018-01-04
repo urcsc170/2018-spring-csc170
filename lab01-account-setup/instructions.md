@@ -1,5 +1,6 @@
 # Lab 1: Account Setup
 *Due: Monday, January 22, 2018 at 9:00 AM (before the next lab comes out)*
+<hr>
 
 Your assignment is to create an account on our production web server and practice the steps in creating and uploading files to the World Wide Web.
 
@@ -80,7 +81,7 @@ On your desktop (or anywhere on your computer’s file system including your thu
 ```
 
 - Save the file  
-- Open the start.html file in a web browser (double click it).  You should see something like this...<br>![screen capture of first webpage](documentation-images/figure1.png)
+- Open the start.html file in a web browser (double click it).  You should see something like this...<br>![screen capture of first webpage](media/figure1.png)
  
 If there are problems, check your handiwork for mistakes in the code editor.  Then re-save and refresh the web browser.
 

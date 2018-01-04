@@ -29,7 +29,7 @@ You will need to be familiar with these two plugins:
 	-	In the index file, delete the script link to the **js/scripts.js** file
 
 You'll end up with something that looks like this:
-![section of HTML](documentation-images/code-snippet1.png "something that looks like this")
+![section of HTML](media/code-snippet1.png "something that looks like this")
 
 ## Install Super Simple Slider
 You need to install the plugin according to the instructions by the author.  In all, you need to do the following:
@@ -79,7 +79,7 @@ You need to install the plugin according to the instructions by the developers o
 - [ ]	Wrap your content (a couple of headers and some paragraphs) in a new DIV with an `id="accordion"`
 
 You should end up with something that looks like this:
-![section of HTML](documentation-images/code-snippet2.png "something that looks like this")
+![section of HTML](media/code-snippet2.png "something that looks like this")
  
 OPTIONALLY: go into your hero.css file and change/add styles as you see fit to make the "hero" look nicer.  E.g. add `gird-gap: 25px;` to the `.hero` styles.  Maybe get rid of the border bottom?  It's up to you.
 
