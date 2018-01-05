@@ -12,7 +12,7 @@ Go to Wikipedia and find a topic that interests you and has enough content for t
 
 -   Create a Word Document named **lab03-yourname.docx** (where *yourname* is your name).
 
--   In it, copy and paste enough content to create *at least* these following elements
+-   In it, copy and paste enough content to create *at least* these following elements (below)
 
     -   Note: do not style the Word document much. Just try to make the headings obvious, and try to clean-up the paragraphs. (Delete the square brackets, et cetera.)
 
