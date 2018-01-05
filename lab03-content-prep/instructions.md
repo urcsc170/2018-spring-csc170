@@ -1,5 +1,4 @@
-Lab 3: Content Preparation
-==========================
+# Lab 3: Content Preparation
 
 *Due: Wednesday, January 31, 2018 at 9:00 AM (before the next lab comes out)*
 
@@ -7,8 +6,7 @@ For this assignment, you need to gather content and prepare it for the web. You 
 
 Note: There is nothing technical about this lab assignment. You simply must have good content that you will use for the following lab assignments.
 
-1. Gather Text Content
-----------------------
+## 1. Gather Text Content
 
 Go to Wikipedia and find a topic that interests you and has enough content for this assignment. Collect enough content in plain text, images and links.
 
@@ -42,8 +40,7 @@ quality.
 
 Look at the [EXAMPLE attached to this lab assignment (a ZIP file that downloads immediately when you click this link)](example.zip). When you’re done with this lab, you should have a document that kinda looks like that but with different content.
 
-2. Gather and Prepare Images
-----------------------------
+## 2. Gather and Prepare Images
 
 Also required with your submission of the Word document, you need to provide at least two image files (usually JPGs).
 
@@ -58,8 +55,7 @@ Also required with your submission of the Word document, you need to provide at 
 
     -   Rename the image files as needed to make them simple, e.g. cat.jpg
 
-3: Upload your work
--------------------
+## 3: Upload your work
 
 When you've gathered your text content in a Word document and prepared at least two image files upload them to the Lab 3 Lab Assignment in Blackboard
 
