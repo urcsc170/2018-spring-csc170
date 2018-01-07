@@ -1,11 +1,13 @@
 # Lab 2: First HTML Webpage
-*Due: Monday, January 29, 2018 at 9:00 AM (before the next lab comes out)<br>Note: you have TWO lab sections to complete this assignment*
+*Due: Monday, January 29, 2018 at 9:00 AM (before the next lab comes out)*
+
+*Note: you have TWO lab sections (a full week) to complete this assignment; that's more than you need, but we need to make sure everyone who joined the course late catches up*
 
 In this assignment, you will create a new HTML file and load it with “dummy” content.  Then you will markup the content with HTML tags.  And finally, you will upload the HTML file to your account on the web server.
 
 You will need to remember your FTP account information from the previous lab.
 
-You will have to look-up how to use certain HTML tags.  [www.w3schools.com](https://www.w3schools.com/) is a good web site to use for researching HTML tags and how they work but keep in mind, w3schools.com is not an official reference of the W3C.  It has outdated information and errors!  Always defer to information from the professor.
+You will have to look-up how to use certain HTML tags.  [www.w3schools.com](https://www.w3schools.com/) is a good web site to use for researching HTML tags and how they work but keep in mind, w3schools.com is not an official reference of the W3C.  It has outdated information and errors!  Always defer to information from the TAs or the professor.
 
 ## Step 1: Create a new HTML file
 
@@ -43,21 +45,21 @@ For this assignment, you will use the comp provided (see last page of this docum
 
 - Get some placeholder text (a.k.a dummy text or lorem ipsum) and keep it handy.
 
-	*Suggestion: go to a website like [www.lipsum.com](http://www.lipsum.com). About halfway down the page, you’ll see a paragraph of Greek text like this:*
+  *Suggestion: go to a website like [www.lipsum.com](http://www.lipsum.com). About halfway down the page, you’ll see a paragraph of Greek text like this:*
 
   > "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-	Keep that text, or any of the other Greek paragraphs handy.  You’ll need it.
-	
+  Keep that text, or any of the other Greek paragraphs handy.  You’ll need it.
+
 - Get a FPO (For Position Only) image.  For our purposes, you need a small image, no wider than say 200 pixels, and the file type must be: *jpg*, *png* or *gif*.  If you’re not sure, then follow this suggestion: 
-	- Go to Google Images ([www.google.com/images](http://www.google.com/images)) and search for something (e.g. cats).
-	- Click the “Search Tools” button and select the “Size” pull down menu.  
-	- Select “Icon” (because, for this assignment, we just want a small image).  
-	- Click on an image that interests you
-	- In the window the stretches open, select the “View original image” button.  
-	- On the image, right-mouse click and save the image to your *images* folder – the one that’s in your *lab02* folder.  (NOTE: instructions for exactly how to save an image from a web browser is different for each type of browser and each operating system.  Sorry, and good luck!)
-	- In the Save dialog box that opens, change the filename to something short, all lowercase letters, and no spaces.  (E.g. *cat*)
-	- Toggle over to your *images* folder and check your handiwork.  If your file is there and it seems okay, you can close your web browser.
+  - Go to Google Images ([www.google.com/images](http://www.google.com/images)) and search for something (e.g. cats).
+  - Click the “Search Tools” button and select the “Size” pull down menu.  
+  - Select “Icon” (because, for this assignment, we just want a small image).  
+  - Click on an image that interests you
+  - In the window the stretches open, select the “View original image” button.  
+  - On the image, right-mouse click and save the image to your *images* folder – the one that’s in your *lab02* folder.  (NOTE: instructions for exactly how to save an image from a web browser is different for each type of browser and each operating system.  Sorry, and good luck!)
+  - In the Save dialog box that opens, change the filename to something short, all lowercase letters, and no spaces.  (E.g. *cat*)
+  - Toggle over to your *images* folder and check your handiwork.  If your file is there and it seems okay, you can close your web browser.
 
 ### Start filling your HTML file with content
 
@@ -68,25 +70,25 @@ Using the *comp* on the back of this document as a guide, you will write and pas
 	(all your text content will go here)
 </body>
 ```
-	
+
 Your goal is to make it look like (but it doesn’t have to be exactly) like the *comp*.
 
 1. Write or copy & paste plain text into your HTML document between the `<body>` tags.  You can start by typing something like this between the `<body>` tags:
 
-	```html
-	<body>
-		<h1>Hello World!</h1>
-		
-	</body>
-	```
-	
+  ```html
+  <body>
+  	<h1>Hello World!</h1>
+  	
+  </body>
+  ```
+
 2. Save your HTML file, toggle back to your lab02 folder and double click your start.html file.  The file will open in a web browser – whatever is the default web browser for your computer.  There, you should see something like this:
 
-	![figure1:three windows open on your desktop](documentation-images/figure1.png)
+  ![figure1:three windows open on your desktop](media/figure1.png)
 
-	For the rest of this section, you will continue to write or copy & paste text into your HTML document, always between the one set of `<body>` tags.  (You can use any bits and pieces of the placeholder text – the *lorem ipsum* stuff – where ever you want.)  As you go, you will need to add “markup” (the tags) to the content.
+  For the rest of this section, you will continue to write or copy & paste text into your HTML document, always between the one set of `<body>` tags.  (You can use any bits and pieces of the placeholder text – the *lorem ipsum* stuff – where ever you want.)  As you go, you will need to add “markup” (the tags) to the content.
 
-3.	Format the plain text in your document using HTML tags. Make sure you use at least one example of each of the following types of tags.<br>*WARNING: yes! – you must look-up how to use these tags correctly...*
+  3.Format the plain text in your document using HTML tags. Make sure you use at least one example of each of the following types of tags.<br>*WARNING: yes! – you must look-up how to use these tags correctly...*
 
   - **First level heading**
   - **Second level heading**
@@ -109,9 +111,9 @@ In general, the process is to write some code in the code editor, save it, then 
 When you are done with your webpage, use an FTP tool (like WinSCP or Cyberduck) to access your account on **urcsc170.org**  (remember your FTP login information?) and upload your files like this:
 
 1.	Open an FTP tool and login to your account using the login credentials you used in Lab 1.
-2.	Drag your **lab02** folder into the online area in your FTP tool.  The result will put all your files and folders on the server.  
-3.	In a web browser (any), go to this address to check your handiwork: 
-**www.urcsc170.org/*accountname*/lab02/start.html**<br>(where *accountname* is your account name)
+  2.Drag your **lab02** folder into the online area in your FTP tool.  The result will put all your files and folders on the server.  
+  3.In a web browser (any), go to this address to check your handiwork: 
+  **www.urcsc170.org/*accountname*/lab02/start.html**<br>(where *accountname* is your account name)
 
 ## Step 4:  Report your work
 1.	In our Blackboard section, in Lab 2, post a link to your webpage to receive credit for this Lab. 
@@ -125,4 +127,4 @@ Below is your comp to guide the design of your webpage.
 
 Remember: it is *not* important to make your webpage look like this.  In fact, this is a good time to do some experimentation.  
 
-![figure2:comp of lab 2](documentation-images/figure2.png)
+![figure2:comp of lab 2](media/figure2.png)
