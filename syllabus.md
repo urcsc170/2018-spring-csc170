@@ -1,14 +1,13 @@
 # Course Syllabus: CSC 170 - Web Design and Development
 
+An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
+
 - CRN: **49022**
 - Course: **CSC 170**
 - Credits: **4.0**
 - Schedule: **Tues., Thurs.,3:25 - 4:40 PM**
 - Building: **Goergen Hall**
 - Room: **101**
-
-## Course Description
-An introduction to Internet and Web technologies. Topics include Internet transport protocols, HTML5 and CSS3, Web page design and Website publishing. Emphasis is placed on fundamentals, design concepts and industry standards. Additional topics include: web site construction techniques, mobile design issues, and Search Engine Optimization (SEO). Programming with JavaScript will be introduced.
 
 ## Instructor Information 
 - Instructor: **Professor Kostin**
