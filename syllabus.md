@@ -25,7 +25,7 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 ### Grading Schema
 
 | **Range**      | **Grade** |
-|----------------|-----------|
+| -------------- | --------- |
 | 93.00 to 100   | A         |
 | 90.00 to 92.99 | A-        |
 | 87.00 to 89.99 | B+        |
@@ -39,23 +39,24 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
+| Activity                                 | Weight of the final grade                |
+| ---------------------------------------- | ---------------------------------------- |
+| **Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs. | **30%**<br>Each lab assignment will be worth about 2% of the overall grade |
+| **Projects**<br>There are three projects during the semester. Each project depends on the success of the previous. | **40%**<br>Project 1: 10% <br>Project 2: 15%<br>Project 3: 15% |
+| **Exams**<br>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).  See [the course schedule](schedule.md) for exact exam dates and locations. | **30%**<br>Midterm exam: 15%<br>Final exam: 15% |
 
-|Activity				| Weight of the final grade|
-|---				|---	|
-|**Lab Assignments**<br>There is lab work usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 30%.  There will be around 15-18 lab assignments depending on current changes in the web development industry.<br>NOTE: each lab depends on the success of the previous so students need to keep-up and not skip labs.| **30%**<br>Each lab assignment will be worth about 2% of the overall grade|
-|**Projects**<br>There are three projects during the semester. Each project depends on the success of the previous.|**40%**<br>Project 1: 10% <br>Project 2: 15%<br>Project 3: 15% |
-|**Exams**<br>There are two exams: a midterm and a final. The final exam is not comprehensive, but given the nature of the topic it is important to know the course material from the first half of the semester.<br>NOTE: the Final Exam is administered in the labs during the regular semester (not during exam week).  See [the course schedule](schedule.md) for exact exam dates and locations.|**30%**<br>Midterm exam: 15%<br>Final exam: 15%|
+
 
 ## Lab and Project Assignments
 **Assignments** are made available via Blackboard after most lectures and can be completed in the lab room or independently on one's own Internet-connected computer (Mac or PC).  However...
 
 **Help:** THIS IS IMPORTANT --> to get help on any lab assignment or project, students must go to a scheduled lab session and find one of the TAs and ask for help.
 
-| **Lab**    | **Day & Time**                           | **Location** | **Teaching Assistants**                                                                                                         |
-|------------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-| CRN: 49041 | Mondays & Wednesdays 9:00 - 10:15 AM     | Gavett 208   | Famous Clark <fclark2@u.rochester.edu><br>Phoi Nguyen <pnguy10@u.rochester.edu><br>Lu Nguyen <lnguy15@u.rochester.edu><br>      |
-| CRN: 49035 | Tuesdays & Thursdays 9:40 - 10:55 AM     | Gavett 244   | Jien Ogawa <jogawa@u.rochester.edu><br>Sidhant Ahluwalia <sahluwa3@u.rochester.edu><br>Hillary Chun <hchun4@u.rochester.edu><br>|
-| CRN 49064  | Tuesdays & Thursdays 11:05 AM - 12:20 PM | Gavett 244   | Shiqi Zhang <szhang51@u.rochester.edu><br>Kwasi Nimako <knimako@u.rochester.edu><br>May Shin Lyan <hwai@u.rochester.edu><br>    |
+| **Lab**    | **Day & Time**                           | **Location** | **Teaching Assistants**                  |
+| ---------- | ---------------------------------------- | ------------ | ---------------------------------------- |
+| CRN: 49041 | Mondays & Wednesdays 9:00 - 10:15 AM     | Gavett 208   | Famous Clark <fclark2@u.rochester.edu><br>Phoi Nguyen <pnguy10@u.rochester.edu><br>Lu Nguyen <lnguy15@u.rochester.edu><br> |
+| CRN: 49035 | Tuesdays & Thursdays 9:40 - 10:55 AM     | Gavett 244   | Jien Ogawa <jogawa@u.rochester.edu><br>Sidhant Ahluwalia <sahluwa3@u.rochester.edu><br>Hillary Chun <hchun4@u.rochester.edu><br> |
+| CRN 49064  | Tuesdays & Thursdays 11:05 AM - 12:20 PM | Gavett 244   | Shiqi Zhang <szhang51@u.rochester.edu><br>Kwasi Nimako <knimako@u.rochester.edu><br>May Shin Lyan <hwai@u.rochester.edu><br> |
 
 **Note:** throughout the semester, the assignments build on each other, meaning: students cannot complete one without successfully finishing the previous.  So, success in this course requires students to turn-in assignments on-time and in the right order.
 
@@ -90,6 +91,25 @@ In addition to the hosted Web service, provided by the University, students will
 If a student does not have a personal computer with these capabilities, the University provides open labs at various locations on campus that they can use.  Those computers have all the required capabilities and software installed and they are supported by University IT.  
 
 For reference: during lectures the professor will be using a **Macbook** and **Windows PC** (alternatively) and a code editor: **Sublime Text, version 3** ([www.sublimetext.com/3](http://www.sublimetext.com/3)). For FTP demonstrations, the professor will use **Cyberduck** (for Mac, [cyberduck.io](http://cyberduck.io)) and **WinSCP** (for PC, [winscp.net/eng/download.php](http://winscp.net/eng/download.php)).  Demonstrations during the lecture and in labs will be done using **Google Chrome**.
+
+### Communication
+
+The professor will use **Slack** to make course‑related announcements and to distribute assignments.  Students are required to monitor Slack for announcements daily.  
+
+Students may also use Slack to ask questions and get help from the TAs and professor.
+
+- Sign-up for access to the CSC 170 Slack Workspace here: [join.slack.com/t/csc170/signup](https://join.slack.com/t/csc170/signup)
+
+  - Students must use their **rochester.edu** email when signing-up for access
+
+- After the student has created their account, they can access the *CSC 170 Slack Workspace* here: [csc170.slack.com](https://csc170.slack.com/) 
+
+  - Consider bookmarking that address
+  - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
+
+
+  - Also consider turning-on Slack notifications in the smartphone app
+    - Notifications can be customized so the student is not overwhelmed with notifications
 
 ## Academic Honesty
 Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person’s work as one’s own, or the attempt “to blur the line between one’s own ideas or words and those borrowed from another source.” ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). More specifically for CSC 170, **computer code (HTML, CSS, PHP, or JavaScript) submitted for grading, that was copied from another source in part or whole without acknowledgment is plagiarism**.  To protect yourself, in the programming world, citations of sources may be placed in the "code comments" of submitted files.
