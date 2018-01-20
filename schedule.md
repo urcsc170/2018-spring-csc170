@@ -1,6 +1,5 @@
 # Schedule
-This schedule is subject to modification throughout the semester. Always check
-with your instructor if you have any questions.
+This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
 *Note: students are required to know in which lab they're registered, and when & where it meets.  (Refer to the CRN number and look it up!)*
 
