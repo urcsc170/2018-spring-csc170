@@ -3,15 +3,17 @@
 
 *Note: you have TWO lab sections (a full week) to complete this assignment; that's more than you need, but we need to make sure everyone who joined the course late catches up*
 
+<hr>
+
 In this assignment, you will create a new HTML file and load it with “dummy” content.  Then you will markup the content with HTML tags.  And finally, you will upload the HTML file to your account on the web server.
 
 You will need to remember your FTP account information from the previous lab.
 
-You will have to look-up how to use certain HTML tags.  [www.w3schools.com](https://www.w3schools.com/) is a good web site to use for researching HTML tags and how they work but keep in mind, w3schools.com is not an official reference of the W3C.  It has outdated information and errors!  Always defer to information from the TAs or the professor.
+You will have to look-up how to use certain HTML tags.  [www.w3schools.com](https://www.w3schools.com/) is a good web site to use for researching HTML tags and how they work but keep in mind, w3schools.com is not an official reference for web development.  It has outdated information and errors!  Always defer to information from the TAs or the professor.
 
 ## Step 1: Create a new HTML file
 
-- On your desktop (or anywhere on your computer’s file system – including your thumb drive ...which might be a good idea) create a folder titled: **lab02**
+- On your desktop (or anywhere on your computer’s file system) create a folder titled: **lab02**
 - Inside the **lab02** folder, create a folder titled **images**
 - Inside the **lab02** folder (not the **images** folder) create a new HTML file named **start.html**
 - In your code editor, type the following exactly:
@@ -43,13 +45,7 @@ For this assignment, you will use the comp provided (see last page of this docum
 
 ### Prep: Gather some placeholder content
 
-- Get some placeholder text (a.k.a dummy text or lorem ipsum) and keep it handy.
-
-  *Suggestion: go to a website like [www.lipsum.com](http://www.lipsum.com). About halfway down the page, you’ll see a paragraph of Greek text like this:*
-
-  > "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-  Keep that text, or any of the other Greek paragraphs handy.  You’ll need it.
+- Get some placeholder text (a.k.a dummy text or lorem ipsum) and keep it handy. You’ll need it later.
 
 - Get a FPO (For Position Only) image.  For our purposes, you need a small image, no wider than say 200 pixels, and the file type must be: *jpg*, *png* or *gif*.  If you’re not sure, then follow this suggestion: 
   - Go to Google Images ([www.google.com/images](http://www.google.com/images)) and search for something (e.g. cats).
@@ -93,9 +89,9 @@ Your goal is to make it look like (but it doesn’t have to be exactly) like the
   - **First level heading**
   - **Second level heading**
   - **Paragraph**
-  - **Bold** (strong)<br>Do not ever use the `<b>` tag
-  - **Italic** (emphasis)<br>Do not ever use the `<i>` tag
-  - A **link** to an inline image<br>hint: your “src” will be something like `images/cat.jpg`<br>hint: you will also need to create an "alt", something like `my cat`<br>hint: do **not** use a `height=""` or `width=""` attribute on your image tag<br>*Even though w3schools.com shows an example of an IMG element that uses the height and width attributes, do NOT do it!  (To be explained in a future lecture.)*
+  - **Bold** (strong)<br>Do not *ever* use the `<b>` tag
+  - **Italic** (emphasis)<br>Do not *ever* use the `<i>` tag
+  - A **link** to an inline image<br>hint: your “src” will be something like `images/cat.jpg`<br>hint: you will also need to create an "alt", something like `my cat`<br>hint: do **not** use a `height=""` or `width=""` attribute on your image tag<br>*Even though w3schools.com shows an example of an IMG element that uses the **height** and **width** attributes, do NOT use them!  (To be explained in a future lecture.)*
   - A **hyperlink** to another website<br>(hint: your “href” will be something like `http://www.google.com`)
   - An **unordered list**
   - An **ordered list**
@@ -111,14 +107,16 @@ In general, the process is to write some code in the code editor, save it, then 
 When you are done with your webpage, use an FTP tool (like WinSCP or Cyberduck) to access your account on **urcsc170.org**  (remember your FTP login information?) and upload your files like this:
 
 1.	Open an FTP tool and login to your account using the login credentials you used in Lab 1.
-  2.Drag your **lab02** folder into the online area in your FTP tool.  The result will put all your files and folders on the server.  
-  3.In a web browser (any), go to this address to check your handiwork: 
-  **www.urcsc170.org/*accountname*/lab02/start.html**<br>(where *accountname* is your account name)
+2.	Drag your **lab02** folder into the online area in your FTP tool.  The result will put all your files and folders on the server.
+3.	In a web browser (any), go to this address to check your handiwork: 
+  ```www.urcsc170.org/accountname/lab02/start.html```<br>(where *accountname* is your account name)
 
 ## Step 4:  Report your work
 1.	In our Blackboard section, in Lab 2, post a link to your webpage to receive credit for this Lab. 
 
-[end of lab instructions]<br><br>
+[end of lab instructions]
+
+
 
 <hr>
 
