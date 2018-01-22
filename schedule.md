@@ -7,10 +7,10 @@ This schedule is subject to modification throughout the semester. Always check w
 | ---------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | Wednesday, January 17, 2018  |                                          | [Lab 1 Account Setup](lab01-account-setup/instructions.md) |                                          |
 | Thursday, January 18, 2018   | [Lecture 1 Introduction to the Industry (PDF)](lecture01-introduction-to-the-industry/introduction-to-the-industry.pdf)<br />[What is the World Wide Web (YouTube)](https://www.youtube.com/watch?v=J8hzJxb0rpc) |                                          | [Lab 1 Account Setup](lab01-account-setup/instructions.md) |
-| Monday, January 22, 2018     |                                          | Lab 2 First HTML Web Page                |                                          |
-| Tuesday, January 23, 2018    | Lecture 2 The Internet and the Web       |                                          | Lab 2 First HTML Web Page                |
-| Wednesday, January 24, 2018  |                                          | Lab 2 First HTML Web Page, cont’d        |                                          |
-| Thursday, January 25, 2018   | Lecture 3 Hypertext Markup Language      |                                          | Lab 2 First HTML Web Page, cont’d        |
+| Monday, January 22, 2018     |                                          | [Lab 2 First HTML Web Page](lab02-first-html-webpage/instructions.md) |                                          |
+| Tuesday, January 23, 2018    | Lecture 2 The Internet and the Web       |                                          | [Lab 2 First HTML Web Page](lab02-first-html-webpage/instructions.md) |
+| Wednesday, January 24, 2018  |                                          | [Lab 2 First HTML Web Page, cont'd](lab02-first-html-webpage/instructions.md) |                                          |
+| Thursday, January 25, 2018   | Lecture 3 Hypertext Markup Language      |                                          | [Lab 2 First HTML Web Page, cont'd](lab02-first-html-webpage/instructions.md) |
 | Monday, January 29, 2018     |                                          | Lab 3 Content Preparation                |                                          |
 | Tuesday, January 30, 2018    | Lecture 4 Web Document Structure         |                                          | Lab 3 Content Preparation                |
 | Wednesday, January 31, 2018  |                                          | Lab 4 Structured HTML Document           |                                          |
