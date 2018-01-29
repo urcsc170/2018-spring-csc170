@@ -14,31 +14,24 @@ Go to Wikipedia and find a topic that interests you and has enough content for t
 
 -   In it, copy and paste enough content to create *at least* these following elements (below)
 
-    -   Note: do not style the Word document much. Just try to make the headings obvious, and try to clean-up the paragraphs. (Delete the square brackets, et cetera.)
-
+    -   Do not try to style the Word document much. Just make the headings obvious.
+    -   Clean-up the paragraphs. (Delete the square brackets, et cetera.)
     -   Remember: the goal of this assignment is just to find and hold-on to content that you’ll turn into web pages later.
 
 ### Elements (parts) You Need...
 
 -   A title (this will act as a first level heading)
-
--   A subtitle  
-    *Most Wikipedia pages don't have subtitles. You can just make one up.*
-
+-   A subtitle (most Wikipedia pages don't have subtitles. You can just make one up.)
 -   At least four second level headings
-
--   At least three paragraphs of text associated with each of the first three second level headings
-
+-   At least three paragraphs of text associated with *each* of the first three second level headings
 -   At least two lists with at least seven items each: unordered, ordered or definition list (any combination); they must appear under the last second level heading
-
--   At least three references and/or external links with their complete text and hypertext-links to other sources *Copy & paste the URLs right in the text next to each citation*
-
+-   At least three references and/or external links with their complete text and hypertext-links to other sources 
+    -   NOTE: copy & paste the URLs right in the text next to each citation
 -   One more citation, referring to the source of the Wikipedia page(s) you used in this assignment
 
-Note: you can slop together any related content as you need to make the assignment whole which includes: taking content from more than one Wikipedia page; writing a little bit of content yourself (for simple headers or captions, as needed). The assignment requires "real" content, but will not be graded for
-quality.
+Note: you can slop together any related content as you need to make the assignment whole which includes: taking content from more than one Wikipedia page; writing a little bit of content yourself (for simple headers or captions, as needed). The assignment requires "real" content, but will not be graded for quality.
 
-Look at the [EXAMPLE attached to this lab assignment (a ZIP file that downloads immediately when you click this link)](example.zip). When you’re done with this lab, you should have a document that kinda looks like that but with different content.
+Look at the [EXAMPLE (a ZIP file that downloads immediately when you click this link)](example.zip). When you’re done with this lab, you should have a document that kinda looks like that but with different content.
 
 ## 2. Gather and Prepare Images
 
@@ -48,12 +41,12 @@ Also required with your submission of the Word document, you need to provide at 
 
 -   Download and prepare *at least* two images from your Wikipedia page(s)
 
-    -   The images must be smaller than about 250px wide
+    -   The images must be between about 200 and  350 piexel wide
 
     -   Most likely, the images will be larger than 250px. If so you must use image editing software to make it so resize them  
         *Just about any photo editing software will do. You can use Photoshop which is installed on the University computers but that'd be overkill. On Windows machines, try Paint. On Macs, try Preview.*
 
-    -   Rename the image files as needed to make them simple, e.g. cat.jpg
+    -   Rename the image files as needed to make them simple, e.g. shakespeare.jpg
 
 ## 3: Upload your work
 
