@@ -12,11 +12,11 @@ Go to Wikipedia and find a topic that interests you and has enough content for t
 
 -   Create a Word Document named **lab03-yourname.docx** (where *yourname* is your name).
 
--   In it, copy and paste enough content to create *at least* these following elements (below)
+-   In it, copy and paste enough content to create *at least* the elements listed in the [Elements (parts) You Need...](#elements-parts-you-need) section, below
 
     -   Do not try to style the Word document much. Just make the headings obvious.
     -   Clean-up the paragraphs. (Delete the square brackets, et cetera.)
-    -   Remember: the goal of this assignment is just to find and hold-on to content that you’ll turn into web pages later.
+    -   Remember: the goal of this assignment is just to find and hold-on to content that you’ll turn into web pages for all the future lab assignments.
 
 ### Elements (parts) You Need...
 
@@ -31,6 +31,8 @@ Go to Wikipedia and find a topic that interests you and has enough content for t
 
 Note: you can slop together any related content as you need to make the assignment whole which includes: taking content from more than one Wikipedia page; writing a little bit of content yourself (for simple headers or captions, as needed). The assignment requires "real" content, but will not be graded for quality.
 
+#### Example
+
 Look at the [EXAMPLE (a ZIP file that downloads immediately when you click this link)](example.zip). When you’re done with this lab, you should have a document that kinda looks like that but with different content.
 
 ## 2. Gather and Prepare Images
@@ -43,7 +45,7 @@ Also required with your submission of the Word document, you need to provide at 
 
     -   The images must be between about 200 and  350 piexel wide
 
-    -   Most likely, the images will be larger than 250px. If so you must use image editing software to make it so resize them  
+    -   Most likely, the images will be larger than 350px. If so you must use image editing software to make it so resize them  
         *Just about any photo editing software will do. You can use Photoshop which is installed on the University computers but that'd be overkill. On Windows machines, try Paint. On Macs, try Preview.*
 
     -   Rename the image files as needed to make them simple, e.g. shakespeare.jpg
