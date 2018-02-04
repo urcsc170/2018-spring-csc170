@@ -14,7 +14,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, January 29, 2018     |                                          | [Lab 3: Content Prep](lab03-content-prep/instructions.md) |                                          |
 | Tuesday, January 30, 2018    | [Lecture 4 Web Document Structure](lecture04-web-document-structure/web-document-structure.pdf)<br /><br />[HTML 5 New Elements (website)](https://www.w3schools.com/html/html5_new_elements.asp)<br /><br />[The Machine is Us-ing Us (YouTube)](https://youtu.be/NLlGopyXT_g) |                                          | [Lab 3: Content Prep](lab03-content-prep/instructions.md) |
 | Wednesday, January 31, 2018  |                                          | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |                                          |
-| Thursday, February 1, 2018   | [Lecture 5 CSS for Formatting](lecture05-css-for-formatting/css-for-formatting.pdf)<br /><br />[Color Keywords List](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) |                                          | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |
+| Thursday, February 1, 2018   | [Lecture 5 CSS for Formatting](lecture05-css-for-formatting/css-for-formatting.pdf)<br /><br />[Color Keywords List](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)<br /><br />[Project 1: Classic HTML Document, assigned](project01-classic-html-document/instructions.md) |                                          | [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) |
 | Monday, February 5, 2018     |                                          | Lab 5 CSS for Formatting                 |                                          |
 | Tuesday, February 6, 2018    | Lecture 6 CSS for Formatting (cont'd)    |                                          | Lab 5 CSS for Formatting                 |
 | Wednesday, February 7, 2018  |                                          | Lab 6 CSS for Formatting, Custom         |                                          |
@@ -22,7 +22,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Monday, February 12, 2018    |                                          | Lab 6 CSS for Formatting, Custom (cont'd) |                                          |
 | Tuesday, February 13, 2018   | Lecture 8 CSS for Layout (cont'd)        |                                          | Lab 6 CSS for Formatting, Custom (cont'd) |
 | Wednesday, February 14, 2018 |                                          | Lab 7 CSS for Layout                     |                                          |
-| Thursday, February 15, 2018  | Lecture 9 CSS for Navigation             |                                          | Lab 7 CSS for Layout                     |
+| Thursday, February 15, 2018  | Lecture 9 CSS for Navigation<br /><br />Project 1, due |                                          | Lab 7 CSS for Layout                     |
 | Monday, February 19, 2018    |                                          | Lab 8 CSS for Navigation                 |                                          |
 | Tuesday, February 20, 2018   | Lecture 10 Images for the Web            |                                          | Lab 8 CSS for Navigation                 |
 | Wednesday, February 21, 2018 |                                          | Lab 9 Images for the Web                 |                                          |
