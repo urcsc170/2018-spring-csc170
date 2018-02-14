@@ -98,7 +98,7 @@ Here is an example, albiet a boring one, of what your lab might look like, excep
 
 ## Step 6: Apply a Flex layout to your citations
 
-- Assuming you used an unordered list for your citations (or references or whatever you called them), add a class to the UL, example: `flowing-boxes` or something like that. (NOTE: if you didn't structure your citations in an unordered list, do so now.)
+- Assuming you used an ordered or unordered list for your citations (or references or whatever you called them), add a class to the OL or UL.  For example, add: `"flowing-boxes"` or something like that. (NOTE: if you didn't structure your citations in a list, do so now.)
 - Then, in CSS add the following styles to the class `.flowing-boxes`:
 
 ```css
@@ -110,7 +110,7 @@ padding-left: 0;
 
 You can play around with some of the styles above.  Google `css justify-content` or `css flex-wrap`, and read-up on the options you have.  Try some of the other values to see what they do.
 
-- Then, create a new style in your CSS using a decendent selector targeting the LIs inside the new class - something like this: `.flowing-boxes li` and add these declarations:
+- Then, create a new style in your CSS using a descendent selector targeting the LIs inside the new class - something like this: `.flowing-boxes li` and add these declarations:
 
 ```css
 flex-basis: 200px;
