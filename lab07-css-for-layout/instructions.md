@@ -1,5 +1,6 @@
 # Lab 7: CSS for Layout
-*Due: Monday, February 19, 2018 at 9:00 AM (before the next lab comes out)*
+*Due: <s>Monday, February 19, 2018 at 9:00 AM (before the next lab comes out)</s>*<br>
+***UPDATED**: Wednesday, February 21, 2018 at 9:00 AM*
 
 The purpose of this lab is to add a layout to your webpage using the latest layout techniques: CSS Flex and CSS Grid.  
 
