@@ -184,12 +184,15 @@ As you navigate from page-to-page, the navigation system needs to tell the user 
   - Write a style for .is-current that makes sense for your design.
 
 
+When complete, you should have something like this, but styled in a way that goes with your design!
+
+![webpage](media/figure6.png)
+
 ## Upload and report your work
 
 - When you are done with your web site, close everything and use an FTP tool to access your account on urcsc170.org and upload your files:
   - In a web browser (any), go to this address to check your handiwork:<br>`www.urcsc170.org/accountname/lab08`<br>(where “accountname” is your account name)
   - NOTE: there is *no* homepage for your website (yet) - just four HTML files plus your dead **start.html** file.  In Blackboard, you don't have to link to any of the HTML files.  Just provide a link to the **lab08**  folder - the TAs will figure it out from there.
-
 
 - Remember: Use the W3C HTML validator (`validator.w3.org`) on every page! AND the W3C CSS validator (`jigsaw.w3.org/css-validator`) to check your work before you report it!
 - In our CSC 170 Blackboard section, in Lab 8, post a link to your webpage to receive credit for this Lab.
