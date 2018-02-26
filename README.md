@@ -8,8 +8,9 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 8 CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Monday, February 26)
+  - [Lab 9 Background Images](lab09-background-images/instructions.md) (due: Wednesday, February 28)
 - Previous assignments:
+  - [Lab 8 CSS for Navigation](lab08-css-for-navigation/instructions.md)
   - [Lab 7 CSS for Layout](lab07-css-for-layout/instructions.md)
   - [Project 1: Classic HTML Document](project01-classic-html-document/instructions.md)
   - [Lab 6: More CSS for Formatting](lab06-css-for-formatting-2/instructions.md)
