@@ -78,7 +78,7 @@ The webpage appearance must be usable (readable) without strain.
 
 ## Location
 
--  Your one-page web site must be installed on the class web server, within your directory where you’ll create a new folder that must be exactly this: **project2 **...all lower case, spelled exactly like that.
+-  Your one-page web site must be installed on the class web server, within your directory where you’ll create a new folder that must be exactly this: **project2** ...all lower case, spelled exactly like that.
 
 - The name of the HTML document must be exactly this: **index.html** (not *start*.html this time)
 
@@ -86,10 +86,11 @@ The webpage appearance must be usable (readable) without strain.
 
 - The CSS documents you use must be in a sub-directory of the **project2 **folder named **css**
 
-- Validate the HTML file (**http://validator.w3.org**)
+  ​
 
-- Validate the CSS file (**https://jigsaw.w3.org/css-validator**)
 
 ## Report your work
 
-To receive credit for this project: in Blackboard, in **Project 2**, post a link to your webpage.
+- Validate the HTML file (**http://validator.w3.org**)
+- Validate the CSS file (**https://jigsaw.w3.org/css-validator**)
+- To receive credit for this project: in Blackboard, in Project 2, post a link to your webpage.
