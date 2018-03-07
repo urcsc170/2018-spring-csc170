@@ -45,7 +45,7 @@ The rest of this lab requires you to juggle a lot of open files while copying an
 
 *(Don't use your start.php file because it doesn't have the link to the "navigation.css" file!)*
 
-- Edit the code in the **html-top.inc** file – update the Lab number
+- Edit the code in the **html-top.inc** file – update the lab number: "**Lab 9 - ...**" to "**Lab 10 - ...**"
 
 - In the file: **start.php** type a PHP Include statement to include the **html-top.inc** file in the place where you just made the cut
 
