@@ -8,7 +8,7 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 10 PHP Includes (cont’d)](lab09-background-images/instructions.md) (due Wednesday, March 21)
+  - [Lab 10 PHP Includes (cont’d)](lab10-php-includes/instructions.md) (due Wednesday, March 21)
   - [Project 2: CSS for Formatting and Layout](project02-css-for-formatting-and-layout/instructions.md) (due Tuesday, April 3)
 - Previous assignments:
   - [Lab 9 Background Images](lab09-background-images/instructions.md)
