@@ -82,12 +82,9 @@ The webpage appearance must be usable (readable) without strain.
 
 - The name of the HTML document must be exactly this: **index.html** (not *start*.html this time)
 
-- The image(s) you use must be in a sub-directory of the **project2 **folder named **images**
+- The image(s) you use must be in a sub-directory of the **project2** folder named  **images**
 
-- The CSS documents you use must be in a sub-directory of the **project2 **folder named **css**
-
-  ​
-
+- The CSS documents you use must be in a sub-directory of the **project2** folder named **css**
 
 ## Report your work
 
