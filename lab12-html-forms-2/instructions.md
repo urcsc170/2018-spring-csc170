@@ -20,12 +20,16 @@ The second half of this lab (to be published after the lecture on Tuesday, March
 - Edit your **inc/nav.inc** file:
   - Add a list item to the new **contact.php** file
   - Have the text for the link say something like "Contact Us" ...or something like that
+  - Save and close the **inc/nav.inc** file
 
 ## Step 3: Add Styles to the HTML Form
 
 - Edit the **contact.php** file:
 
-  - Add **class="full-width"** to the opening FORM element
+  - In the opening FORM tag change the **action="#"** attribute to:<br> `action="form-processor.php"`
+  - Add `class="full-width"` to the opening FORM tag
+
+- Save and close the **contact.php** file
 
 - Edit the **css/styles.css** file:
 
@@ -37,6 +41,8 @@ The second half of this lab (to be published after the lecture on Tuesday, March
     }
     ```
 
+- Save and close the **css/styles.css** file
+
 - Edit the **inc/html-top.inc** file:
 
   - Change the TITLE to say "Lab 12..." instead of Lab 10
@@ -46,6 +52,8 @@ The second half of this lab (to be published after the lecture on Tuesday, March
     ```css
     <link rel="stylesheet" href="css/forms.css">
     ```
+
+- Save and close the **inc/html-top.inc** file
 
 - Create a new file in the **css** folder named **forms.css**
 
@@ -65,14 +73,17 @@ The second half of this lab (to be published after the lecture on Tuesday, March
 
   ...do more as you'd like.  (Not graded.)
 
+- Save and close the **css/forms.css** file
+
 
 ## Step 4: Create the Form Processor File
 
 - Make a duplicate of one of your existing webpages - any of them *except* start.php or contact.php - name it: **form-processor.php**
+
 - Edit the new **form-processor.php** file:
   - Delete the ARTICLE and ASIDE and all their contents
 
-- Under the *nav.inc* statement, add a MAIN element with an attribute: **class="full-width"** like this:
+- Under the *nav.inc* statement, add a MAIN element with an attribute: `class="full-width"` and add some content like this:
 
   ```html
   <main class="full-width">
@@ -82,6 +93,8 @@ The second half of this lab (to be published after the lecture on Tuesday, March
   ```
 
   ...be really careful with that embedded PHP element in the H2 (to be explained later); make sure you enter it exactly like that; other than that edit the other text anyway you want.
+
+- Save and close the **form-processor.php** file
 
 <hr>
 
