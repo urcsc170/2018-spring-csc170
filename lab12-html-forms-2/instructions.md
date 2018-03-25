@@ -5,7 +5,7 @@ For this lab you will integrate the non-working HTML form from Part 1 into your 
 
 The first half of this lab is simply creating a new webpage and integrating it into your existing lab website.
 
-The second half of this lab (to be published after the lecture on Tuesday, March 27 will involve editing the *script* that makes the HTML form work.
+The second half of this lab (to be published after the lecture on Tuesday, March 27) will involve editing the *script* that makes the HTML form work.
 
 ## Step 1: Copy Lab 10
 
