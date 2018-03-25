@@ -8,6 +8,7 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
+  - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md) (due Wednesday, March 28)
   - [Lab 11 HTML Forms, Part 1](lab11-html-forms-1/instructions.md) (due Monday, March 26)
   - [Project 2: CSS for Formatting and Layout](project02-css-for-formatting-and-layout/instructions.md) (due Tuesday, April 3)
 - Previous assignments:
