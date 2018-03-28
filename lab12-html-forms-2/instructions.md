@@ -92,7 +92,6 @@ The second half of this lab (to be published after the lecture on Tuesday, March
 
   ...be really careful with that embedded PHP element in the H2 (to be explained later); make sure you enter it exactly like that; other than that edit the other text anyway you want.
 
-- Save and close the **form-processor.php** file
 
 
 ## Step 5: Add and Edit the Form Processing Script
