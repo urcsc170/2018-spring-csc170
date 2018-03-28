@@ -29,8 +29,6 @@ The second half of this lab (to be published after the lecture on Tuesday, March
   - In the opening FORM tag change the **action="#"** attribute to:<br> `action="form-processor.php"`
   - Add `class="full-width"` to the opening FORM tag
 
-- Save and close the **contact.php** file
-
 - Edit the **css/styles.css** file:
 
   - Add a class named **.full-width** to the group selector that sets the grid-column to 1/3 like this...
@@ -96,8 +94,40 @@ The second half of this lab (to be published after the lecture on Tuesday, March
 
 - Save and close the **form-processor.php** file
 
-<hr>
 
-## Stop!
+## Step 5: Add and Edit the Form Processing Script
 
-That's it for now.  After the lecture on Tuesday, March 27, the rest of the instructions will be posted here.
+- Download the ZIP'd file: [form_processing_script.zip](http://urcsc170.org/rkostin/distribution/form_processing_script.zip) and extract the text file 
+- Copy all the text out of that file (106 lines) and paste it in the TOP of your **form-processor.php** file, *above* the PHP **inc/html-top.inc** statement on Line 1
+- Fill-in the blanks in the PHP form processor as demonstrated in the lecture on Tuesday, March 27
+  - Make sure the superglobals match your `name=""` attributes from your HTML form exactly (remember: case sensitive!)
+  - Create variable names for the incoming data that make sense; typically you can use the same word(s) you used in the superglobals, for example `$name = $_POST['name'];`
+- Save and close the **form-processor.php** file
+
+## Step 6: Add Values to your Checkboxes and Radio Buttons
+
+Continue editing the **contact.php** file:
+
+- Add `value=""` attributes to each *checkbox* and *radio* **INPUT** field.  
+
+- In between the quotation marks for each, enter a meaningful value for each one like this:
+
+  ```html
+  <input type="checkbox" name="lookerCheck" id="lookerCheck" value="Good Looking">
+  ```
+
+  ...each value can be whatever you want (and include spaces); whatever you type there will eventually end-up in your email.
+
+- Save and close the **contact.php** file
+
+## Step 7: Upload, Test and Report your Work
+
+Remember: even though you may be  running a local webserver (WAMP or MAMP) the PHP `mail()` command *won't* work because you don't have a mail server on your computer.  You can only test your **contact.php** file when it's running on the class web server.
+
+- FTP your **lab12** folder to the class webserver 
+- In a web browser test the **contact.php** page:<br> **www.urcsc170.org/accountname/lab12/contact.php**<br>(where "*accountname*" is your account name)
+- After filling out the web form, pressing the submit button should take you to your **form-processor.php** webpage where you'll see the "Thank you " ...with the name you typed in the previous webpage there.
+- A few seconds later, you should receive an email with the contents of your labels and web form data
+  - If not, check your **lab12** folder for the existence of a file named **error_log**; open it and read it.  It will point you to the location(s) in your form processor where there is a mistake.
+- If it's all working as expected, go to our CSC 170 section of Blackboard, and in Lab 12, post a link to the **contact.php** webpage to receive credit for this Lab.
+
