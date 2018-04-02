@@ -8,10 +8,12 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md) (due Wednesday, March 28)
-    - You'll need this for Part 2: [Form Processing Script (ZIP)](http://urcsc170.org/rkostin/distribution/form_processing_script.zip)
+  - [Lab 13 JavaScript, Part 1](lab13-javascript-1/instructions.md)
+    - You'll need these starter files for Part 1: [lab13_starter-files.zip](http://urcsc170.org/rkostin/distribution/lab13_starter-files.zip)
   - [Project 2: CSS for Formatting and Layout](project02-css-for-formatting-and-layout/instructions.md) (due Tuesday, April 3)
 - Previous assignments:
+  - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md) 
+    - You'll need this for Part 2: [Form Processing Script (ZIP)](http://urcsc170.org/rkostin/distribution/form_processing_script.zip)
   - [Lab 11 HTML Forms, Part 1](lab11-html-forms-1/instructions.md)
   - [Lab 10 PHP Includes](lab10-php-includes/instructions.md) 
   - [Lab 9 Background Images](lab09-background-images/instructions.md)
