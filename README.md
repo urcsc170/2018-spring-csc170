@@ -9,8 +9,9 @@ Web Design and Development
 
 - Current assignments you should be working on:
   - Coming soon: Project 3 - Website
-  - [Lab 13 JavaScript, Part 1](lab13-javascript-1/instructions.md)
+  - [Lab 14 JavaScript, Part 2](lab14-javascript-2/instructions.md)
 - Previous assignments:
+  - [Lab 13 JavaScript, Part 1](lab13-javascript-1/instructions.md)
   - [Project 2: CSS for Formatting and Layout](project02-css-for-formatting-and-layout/instructions.md)
   - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md) 
   - [Lab 11 HTML Forms, Part 1](lab11-html-forms-1/instructions.md)
