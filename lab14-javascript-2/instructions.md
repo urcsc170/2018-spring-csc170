@@ -33,14 +33,14 @@ Preparing identically-sized images might take some extra work using software on 
 
 ```html
 <section class="hero full-width">
-	<h2>Welcome to The World of William Shakespeare</h2>
-	<figure>
+  <h2>Welcome to The World of William Shakespeare</h2>
+  <figure>
 
-    </figure>
+  </figure>
 
-	<div>
+  <div>
 
-	</div>
+  </div>
 </section><!--.hero-->
 ```
 
