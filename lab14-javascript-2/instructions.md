@@ -155,7 +155,7 @@ Still editing the **index.php** file...
 
 From an appearance standpoint, you should have something that looks like this:
 
-![screen capture](C:\Users\rober\OneDrive\Documents\UR\2018 1. Spring - CSC 170\course-documentation\lab14-javascript-2\media\figure1.png)
+![screen capture](media\figure1.png)
 
 - Save and close **index.php**
 
