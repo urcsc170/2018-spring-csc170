@@ -185,7 +185,7 @@ When you are done with your webpage, close everything and use an FTP tool to acc
 
 In a web browser (any), go to this address to check your handiwork: 
 
-**www.urcsc170.org/accountname/lab14/index.html**<br>(where “*accountname*” is your account name)
+**www.urcsc170.org/accountname/lab14/index.php**<br>(where “*accountname*” is your account name)
 
 - Make sure the HTML and CSS pass their respective validators.
 - In our CSC 170 Blackboard section in the Lab 14 assignment, post a link to your webpage to receive credit for this Lab.
