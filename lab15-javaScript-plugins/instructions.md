@@ -89,7 +89,7 @@ OPTIONALLY: go into your hero.css file and change/add styles as you see fit to m
 When you are done with your webpage, close everything and use an FTP tool (to access your account on **urcsc170.org** and upload your files:
 
 - In a web browser (any), go to this address to check your handiwork: 
-	```www.urcsc170.org/accountname/lab15/index.html```<br>
+	```www.urcsc170.org/accountname/lab15/index.php```<br>
 	(where *accountname* is your account name)
 
 ## Report your work
