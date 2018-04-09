@@ -6,7 +6,7 @@ The goal of this lab assignment is to rip-out the simple JavaScript solutions yo
 You will need to be familiar with these two plugins:
 
 - Super Simple Slider ([supersimpleslider.com](http://supersimpleslider.com))
-- jQuery UI ([jqueryui.com](http://jqueryui.com))
+- jQuery UI ([jqueryui.com](http://jqueryui.com)) ...nothing for you to download here. We'll use CDNs for this plugin. Just follow the instructions below.
 
 
 ## Setup
