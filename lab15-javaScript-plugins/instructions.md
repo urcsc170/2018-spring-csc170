@@ -1,5 +1,5 @@
 # CSC 170 Lab 15: JavaScript Plugins
-*Due: Wednesday, April 11, 2018*
+*Due: Monday, April 16, 2018*
 
 The goal of this lab assignment is to rip-out the simple JavaScript solutions you used on the homepage of your website and replace them with more elegant, jQuery-powered plugins.
 
