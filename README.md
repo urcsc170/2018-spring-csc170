@@ -8,7 +8,7 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 15 JavaScript Plugins](lab15-javaScript-plugins/instructions.md)
+  - [Lab 15 JavaScript Plugins](lab15-javaScript-plugins/instructions.md) (due: Monday, April 16)
   - Project 3 - Website 
 - Previous assignments:
   - [Lab 14 JavaScript, Part 2](lab14-javascript-2/instructions.md)
