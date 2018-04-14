@@ -9,7 +9,7 @@ Web Design and Development
 
 - Current assignments you should be working on:
   - [Lab 15 JavaScript Plugins](lab15-javaScript-plugins/instructions.md) (due: Monday, April 16)
-  - Project 3 - Website 
+  - [Project 3 - Multipage Website](project03-multipage-website/instructions.md) (due: Thursday, April 26, 2018)
 - Previous assignments:
   - [Lab 14 JavaScript, Part 2](lab14-javascript-2/instructions.md)
   - [Lab 13 JavaScript, Part 1](lab13-javascript-1/instructions.md)
