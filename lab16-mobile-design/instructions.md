@@ -14,9 +14,10 @@ Back when you did Lab 10 - PHP Includes, you created a problem: the "is-current"
 
 - Download and extract [the professor's menu-highlighter.js file (from ZIP)](http://urcsc170.org/rkostin/distribution/menu-highlighter.zip) and put it in the **js** folder
 - On *every* webpage in your website, install the **js/menu-highlighter.js** script
-  - Follow the instructions written in comments at the top of the script
+  - Follow the instructions written in comments in the script file (just the top area)
   - NOTE: you already have jQuery installed on the homepage - do not re-install it; simply install the menu-highlighter somewhere under it
   - On all the other webpages you need to install both: jQuery *and* the menu-highlighter script
+  - That's it - this particular plugin doesn't need to be initialized; it just runs automatically when the page loads (onload)
 
 Check to make sure the menu highlighter is working.  As you go from page-to-page, the "is-current" class should automatically be applied dynamically, and the "is-current" styles in your CSS should work.
 
@@ -41,6 +42,7 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 #### Meta Viewport Tag
 
 1. Install the meta META VIEWPORT tag in your **html-top.inc** so it appears on every webpage (everyone needs to do this...)
+
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
