@@ -61,27 +61,19 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 
    - The *horizontal navigation bar* might cause horizontal scroll bars to appear at some point; say it happens at viewport width: 600px (yours will probably be different!) you would write in your **navigation.css** file:
 
-     If you used display: **inline-block** or **display: table-cell** to set the menu items side-by-side...
-
      ```css
      @media (max-width: 600px) {
-     	.main-menu li { display: block; } 
+     	.main-menu ul, .main-menu li { display: block; } 
      }
      ```
 
-     Or if you used **display: flex** to set the menu items side-by-side (notice its `ul` instead of `li`)...
-
-     ```css
-     @media (max-width: 600px) {
-     	.main-menu ul { display: block; } 
-     } 
-     ```
+     ...this will work regardless if you used inline-block, table-cell, or flex to layout your menu items side-by-side.
 
    - You will also need to remove the styles you wrote to put the ARTICLE and ASIDE side-by-side at some point; say it happens at viewport with 730px (again, yours will probably be different!) you would write in your **styles.css** file:
 
      ```css
      @media (max-width: 730px) {
-     	.container { display: block; } 
+     	.container { display: block; } /* ...this will un-do CSS Grid on the container */
      } 
      ```
 
@@ -100,22 +92,22 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
 
      ```css
      @media (max-width: 650px) {
-          .hero { display: block; }
+          .hero { display: block; } /* ...this will un-do CSS Grid on the container */
      }
      ```
 
 #### Images
 
-You may or may not need to do the following, depends on your images and where they're positioned in your webpages:
+You may or may not need to do the following, depending on your images and where they're positioned in your webpages:
 
 6. Create a class that you can put on your image files to make them "flexible"
 
-```css
-.flexible {
-    width: 100%;
-    max-width: 200px; /* ...or 250, or 300 ...adjust this as needed */
-}
-```
+     ```css
+     .flexible {
+         width: 100%;
+         max-width: 200px; /* ...or 250, or 300 ...adjust this as needed */
+     }
+     ```
 
 7. Open for editing all your webpages that have embedded IMG elements 
 
