@@ -67,7 +67,7 @@ Keep in mind, everyone's design is different.  Exactly what you need to do to ma
      }
      ```
 
-     ...this will work regardless if you used inline-block, table-cell, or flex to layout your menu items side-by-side.
+     ...this will work regardless if you used inline-block, table-cell, or flex to layout your menu items side-by-side.  (NOTE: if you did not use ".main-menu" you need to use whatever *you* used)
 
    - You will also need to remove the styles you wrote to put the ARTICLE and ASIDE side-by-side at some point; say it happens at viewport with 730px (again, yours will probably be different!) you would write in your **styles.css** file:
 
