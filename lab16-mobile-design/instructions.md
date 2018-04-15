@@ -115,9 +115,9 @@ You may or may not need to do the following, depending on your images and where 
 
 #### Other things
 
-You need to go through each webpage in your website systematically - looking at each webpage at wide and narrow viewport widths.  Whenever anything looks funky, you need to identify what is causing the problem and you need to fix it.  Typically, you'll need to write a media query - that's your best tool in your "tool bag."
+You need to go through each webpage in your website systematically - looking at each webpage at wide and narrow viewport widths.  Whenever anything looks funky, you need to identify what is causing the problem and you need to fix it.  Typically, you'll need to write a media query - that's your best tool in your "tool bag."  Refer to your lecture notes from last Thursday's lecture on Mobile Design for other techniques.
 
-# Check and Upload your Work
+## Step 4: Check and Upload your Work
 
 When you are done with your webpage, close everything and use an FTP tool to access your account on **urcsc170.org** and upload your files:
 
@@ -125,6 +125,6 @@ When you are done with your webpage, close everything and use an FTP tool to acc
   **www.urcsc170.org/accountname/lab16**  
   (where “*accountname*” is your account name)
 
-# Report your work
+## Step 5: Report your work
 
 - In our Blackboard section, in Lab 16, post a link to your webpage to receive credit for this Lab.
