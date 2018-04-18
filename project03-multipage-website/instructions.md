@@ -165,7 +165,7 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
 2.      Make *a copy* of your entire Project 2.  
 
-3.      Rename the Project 2 HTML file from index.html to something that describes its content (something like it’s H1), e.g. **mark-zuckerberg.html**
+3.      Rename the Project 2 HTML file from index.php to something that describes its content (something like it’s H1), e.g. **mark-zuckerberg.php**
 
 4.      In your copy of your Project 2 page, add the"common elements" described earlier in this document, restructuring the HTML as you go, as necessary.
 
@@ -200,6 +200,7 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 ## Implement PHP Includes
 
 14.  Convert your .html files to .php files and factor-out the NAV element and anything else you want to move to separate include files.
+15.  Be sure to install the **menu-highlighter.js** file to insert the "is-current" class on the appropriate menu item for each page.
 
 Remember: after you do this step, you must use a localhost to see your files on your laptop, or upload your files to the webserver and run them there.
 
@@ -211,9 +212,9 @@ Remember: after you do this step, you must use a localhost to see your files on 
   …all lower case, spelled exactly like that.
 - 
   The name of the homepage must be exactly this:
-                **index.html**  
+                **index.php**  
   …all lower case, spelled exactly like that. 
-- Subpage filenames can be whatever makes sense for the current page, so long as they follow standard naming conventions for webpages: all lowercase.  No spaces.  Use hyphens to separate words. E.g. for a webpage titled: "Mark Zuckerberg, CEO of Facebook", you would use "**mark-zuckerberg.html**"
+- Subpage filenames can be whatever makes sense for the current page, so long as they follow standard naming conventions for webpages: all lowercase.  No spaces.  Use hyphens to separate words. E.g. for a webpage titled: "Mark Zuckerberg, CEO of Facebook", you would use "**mark-zuckerberg.php**"
 - The image(s) you use must be in a sub-directory of the **project3** folder, and the sub-directory must be named **images**
 - The external CSS file must be in a sub directory of the **project3** folder, and the subdirectory must be named **css**
 
