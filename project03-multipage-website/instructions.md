@@ -115,10 +115,10 @@ Here is an example of a horizontal menu<br>![screen shot](media\figure2.png)<br>
 ### Main Menu HTML Requirements
 
 - The main menu must be wrapped in a NAV tag.
-
 - The main menu must be coded as an unordered list.
-
 - Each list item must contain an anchor tag that links to one of the other webpages in the website.
+
+You can use [the professor's menu-highlighter.js solution (ZIP)](http://urcsc170.org/rkostin/distribution/menu-highlighter.zip).
 
 ## Footer
 
@@ -155,7 +155,7 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 
   - The include file(s) must be in a sub-folder named **inc**
   - When you move your NAV element into an include you must implement a solution (either PHP or JS) to fix the "current menu highlighter" that shows the user what page they're on.
-    - You don't necessarily have to use the **menu-highlighter.js** file provided by the professor - you can find and implement some other solution
+    - You don't necessarily have to use [the **menu-highlighter.js** file provided by the professor](http://urcsc170.org/rkostin/distribution/menu-highlighter.zip) - you can find and implement some other solution
 
 # Suggested Workflow
 
