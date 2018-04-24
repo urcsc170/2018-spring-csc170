@@ -74,10 +74,6 @@ Each page in your website must have the following items **in common**<br>("In co
   - 
     The home page must follow this pattern:
     `<title>yourname, CSC 170 Project 3</title>`
-  - The subpages must follow this pattern:
-    `<title>pagetopic, yourname, CSC 170 Project 3</title>`
-    - Where *pagetopic* matches the H1 of the current page and *yourname* is your name
-    - If the H1 of the current page is very long, you can shorten it in the TITLE; just try and capture the gist of the topic
 
 ## The Banner
 
@@ -185,9 +181,9 @@ Here’s an example of excerpts that lead to subpages. (Notice the text that say
 9.      Make three copies of your start.html file.  Name them names that describes the content that will go in them (the content from the other students), e.g. **alan-turning.html**, **tim-wu.html**, and **biz-stone.html**
 10.      Fix the common navigation links so they all work correctly.
 11.      Carefully copy HTML content from the other students’ HTML pages.  Be sure to *copy the code* from the other HTML files – not the text from a web browser.  
-         - You *will* need to re-structure the other pages' outlines (the H1, H2s, et cetera) when you bring them over.
-         - If you have a Project 1 that used its own internal navigation, you may remove it.
-         - Other than those things, you need to use as much of the HTML from the other students without modification, as much as possible.
+       - You *will* need to re-structure the other pages' outlines (the H1, H2s, et cetera) when you bring them over.
+       - If you have a Project 1 that used its own internal navigation, you may remove it.
+       - Other than those things, you need to use as much of the HTML from the other students without modification, as much as possible.
 
 ## Build your Homepage
 
